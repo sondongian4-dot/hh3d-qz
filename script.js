@@ -275,6 +275,7 @@ const database = [
     { q: "Kỹ năng kết hợp nhiều dị hỏa cùng lúc của Tiêu Viêm trong 《Đấu Phá Thương Khung》là gì?", a: "Phật Nộ Hỏa Liên" },
     { q: "Kỹ năng kết hợp nhiều dị hỏa cùng lúc của Tiêu Viêm trong 《Đấu Phá Thương Khung》là gì?", a: "Tinh Thần Biến" },
     { q: "Bộ phim hoạt hình trung quốc nào sau đây đã chính thức kết thúc sau 8 năm ?", a: "Tinh Thần Biến" },
+    { q: "Nhân vật chính trong bộ phim hoạt hình Quang Âm Chi Ngoại là ai?", a: "Hứa Thanh" },
 ];
 
 const input = document.getElementById("searchInput");
